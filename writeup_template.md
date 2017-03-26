@@ -18,11 +18,12 @@ The goals / steps of this project are the following:
 [image1]: ./examples/visualization.jpg "Visualization"
 [image2]: ./examples/grayscale.jpg "Grayscaling"
 [image3]: ./examples/random_noise.jpg "Random Noise"
-[image4]: ./examples/placeholder.png "Traffic Sign 1"
-[image5]: ./examples/placeholder.png "Traffic Sign 2"
-[image6]: ./examples/placeholder.png "Traffic Sign 3"
-[image7]: ./examples/placeholder.png "Traffic Sign 4"
-[image8]: ./examples/placeholder.png "Traffic Sign 5"
+[image4]: ./images/strassenschild1.png "Traffic Sign 1"
+[image5]: ./images/strassenschild2.png "Traffic Sign 2"
+[image6]: ./images/strassenschild3.png "Traffic Sign 3"
+[image7]: ./images/strassenschild4.png "Traffic Sign 4"
+[image8]: ./images/strassenschild5.png "Traffic Sign 5"
+
 
 ## Rubric Points
 ###Here I will consider the [rubric points](https://review.udacity.com/#!/rubrics/481/view) individually and describe how I addressed each point in my implementation.  
@@ -139,10 +140,15 @@ If a well known architecture was chosen:
 
 ####1. Choose five German traffic signs found on the web and provide them in the report. For each image, discuss what quality or qualities might be difficult to classify.
 
-Here are five German traffic signs that I found on the web:
+Here are five German traffic signs that I found on my way to work (city of Nuremberg, Bavaria).
 
-![alt text][image4] ![alt text][image5] ![alt text][image6] 
-![alt text][image7] ![alt text][image8]
+
+![alt text][Strassenschild1]
+![alt text][Strassenschild2]
+![alt text][Strassenschild3] 
+![alt text][Strassenschild4]
+![alt text][Strassenschild5]
+
 
 The first image might be difficult to classify because ...
 
